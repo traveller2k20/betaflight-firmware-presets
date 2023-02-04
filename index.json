@@ -203,10 +203,8 @@
       "DDC",
       "default",
       "defaults",
-      "digital",
       "disable",
       "displayport",
-      "divimath",
       "dji",
       "DShot telemetry",
       "ELRS",
@@ -223,7 +221,6 @@
       "gyroflow",
       "HD",
       "HD video",
-      "HDzero",
       "hot",
       "karate",
       "KarateBrot",
@@ -238,7 +235,6 @@
       "mode",
       "modes",
       "msp",
-      "MSP VTX",
       "msp-osd",
       "names",
       "no rpm",
@@ -252,8 +248,6 @@
       "pid",
       "profile",
       "race",
-      "race v1",
-      "race v2",
       "rates",
       "RC",
       "rc link",
@@ -263,7 +257,6 @@
       "reset statistics",
       "rpm",
       "Rx",
-      "SA 2.1",
       "sliders",
       "smoothing",
       "some",
@@ -277,7 +270,6 @@
       "Team Black Sheep",
       "toothpic",
       "tune",
-      "tx5m.1",
       "ultralite",
       "utility",
       "very",
@@ -287,11 +279,9 @@
       "viper lite",
       "vista",
       "vtx",
-      "vtx table",
       "vtxtable",
       "walksnail",
       "whoop",
-      "whoop lite",
       "world champion",
       "wtfos"
     ]
@@ -1754,33 +1744,6 @@
         "msp"
       ],
       "author": "benlumley",
-      "priority": 1000000
-    },
-    {
-      "fullPath": "presets/4.4/vtx/HDZero.txt",
-      "hash": "e843067b3c45c9472f2a16c9aee6f2b4d56d9144258ed597c28a24376a695020",
-      "title": "HDZero VTXs",
-      "firmware_version": [
-        "4.4"
-      ],
-      "category": "VTX",
-      "status": "COMMUNITY",
-      "keywords": [
-        "vtx",
-        "vtx table",
-        "HDzero",
-        "divimath",
-        "SA 2.1",
-        "digital",
-        "whoop",
-        "whoop lite",
-        "race v1",
-        "race v2",
-        "freestyle",
-        "tx5m.1",
-        "MSP VTX"
-      ],
-      "author": "sugarK",
       "priority": 1000000
     }
   ]
